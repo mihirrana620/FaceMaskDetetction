@@ -1,4 +1,4 @@
-# FaceMaskDetection
+# Face Mask Detection
 
 datasets link : https://github.com/cabani/MaskedFace-Net
 
